@@ -82,3 +82,52 @@ This repository covers a wide range of DSA topics, including but not limited to:
 
 The repository is structured as follows:
 
+- **Problem Statements**: `.md` files containing the problem description, constraints, and examples.
+- **Solutions**: Source code files (`.py`, `.cpp`, `.java`, etc.) with implementations of the solutions.
+
+## How to Contribute
+
+Contributions are welcome! Here’s how you can contribute:
+
+1. **Fork the Repository**: Click on the "Fork" button on the top right of this page to create a copy of this repository in your GitHub account.
+2. **Clone the Repository**: Clone the forked repository to your local machine.
+    ```bash
+    git clone https://github.com/your-username/dsa-practice.git
+    ```
+3. **Create a New Branch**: Create a new branch for your feature or fix.
+    ```bash
+    git checkout -b feature/new-problem
+    ```
+4. **Make Your Changes**: Add your problem and solution files.
+5. **Commit Your Changes**: Commit your changes with a descriptive message.
+    ```bash
+    git commit -m "Added solution for [Problem Name]"
+    ```
+6. **Push to Your Branch**: Push your changes to the branch on your forked repository.
+    ```bash
+    git push origin feature/new-problem
+    ```
+7. **Open a Pull Request**: Go to the original repository and open a pull request from your branch.
+
+Please make sure your contributions adhere to the repository's guidelines.
+
+## Resources
+
+Here are some valuable resources for practicing and learning DSA:
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [LeetCode](https://leetcode.com/)
+- [HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+- [Codeforces](https://codeforces.com/)
+- [Coursera: Algorithms Specialization](https://www.coursera.org/specializations/algorithms)
+
+## Acknowledgements
+
+I would like to thank all the platforms and individuals who have contributed to the field of DSA. This repository is inspired by countless hours of learning and solving problems from various sources.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+
+
+
